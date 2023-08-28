@@ -111,6 +111,7 @@ div
     }
     #div1, #div2, #div3
     {
+        width: 100%;
         margin-top: 10px;
     }
     #sec1, #sec2, #sec3
