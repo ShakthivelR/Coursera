@@ -103,7 +103,7 @@ div
 }
 
 /*****Small Medium Device only*****/
-@media (max-width: 767px)
+@media (min-width: 0px) and (max-width: 767px)
 {
     div
     {
@@ -111,7 +111,7 @@ div
     }
     #div1, #div2, #div3
     {
-        width: 100%;
+        width: 100em;
         margin-top: 10px;
     }
     #sec1, #sec2, #sec3
